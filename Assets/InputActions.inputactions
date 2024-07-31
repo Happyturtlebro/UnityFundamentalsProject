@@ -90,6 +90,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Player2",
+            "id": "519e686e-bac9-4830-9bf1-55108532e314",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "f57b41e2-65ba-44b0-a764-e15fc0398292",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "917c8b91-b216-46a0-b32c-46d12ae2e589",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
